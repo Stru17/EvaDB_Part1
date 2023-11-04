@@ -18,7 +18,7 @@ The focal point of the challenge was centered around ensuring efficient text ext
 
 ## Sample Input/Output
 
-Refer to the `EvaDB Part 1.ipynb` file within the EvaDB PDF folder for the finalized code. The `spring_2023_orientation_document.pdf` within the 'orientation' folder serves as the sample input, with respective output files illustrating text extraction and processing results using different libraries. A comparative review of these files highlights the strides made in enhancing PDF text extraction for EvaDB's applications.
+Refer to the `EvaDB Part 1.ipynb` file within the EvaDB PDF folder for the finalized code. The `spring_2023_orientation_document.pdf` within the 'orientation' folder serves as the sample input, with respective output files illustrating text extraction and processing results using different libraries. A comparative review of these files highlights the strides made in enhancing PDF text extraction for EvaDB's applications. `fitz_unstructured_pdf_loader_script.py` is the finalized code that is expected to be pulled into EvaDB for potential improvements to EvaDB.
 
 ## Next Steps
 
